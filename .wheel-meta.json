@@ -1,0 +1,22 @@
+{
+  "wheel_id": 938,
+  "structure": "umbrella",
+  "slug": "toowoombaretainingwalls-109",
+  "project": "retaining-wall-repairs-toowoomba-maintenance-639149d27c01e451ff",
+  "parent_t1_ref": "toowoombaretainingwalls-154",
+  "node_role": "feeder",
+  "money_target": "toowoombaretainingwalls.com",
+  "primary_kw": "retaining wall repairs toowoomba maintenance",
+  "intended_url": "http://retaining-wall-repairs-toowoomba-maintenance-639149d27c01e451ff.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "34812b0039850403",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/toowoombaretainingwalls-154/",
+      "anchor": "the related resource",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
